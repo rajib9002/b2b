@@ -40,9 +40,9 @@ $active_record = TRUE;
 
 
 $db['default']['hostname'] = "localhost";
-$db['default']['username'] = "bike2bik_er";
-$db['default']['password'] = "bike_biker";
-$db['default']['database'] = "bike2bik_bike_biker1";
+$db['default']['username'] = "root";
+$db['default']['password'] = "";
+$db['default']['database'] = "b2b";
 
 //$db['default']['hostname'] = "172.16.5.107";
 //$db['default']['username'] = "u1272135_race";
