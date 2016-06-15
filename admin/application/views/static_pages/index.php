@@ -1,1 +1,0 @@
-<div class="form_content"><div>[<a href='<?=site_url('static_pages/edit/'.$content);?>'>Edit</a>]</div><?=read_file(FRONT_END."views/static/".$content.".php");?><div class='page_footer'></div></div>

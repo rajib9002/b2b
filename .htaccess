@@ -1,3 +1,0 @@
-RewriteEngine on
-RewriteCond $1 !^(index\.php|test\.php|upload\.php|bkash\.php|jQuery-File-Upload-master|images|real-ajax-uploader|system|secto|ies|tools|script|styles|player|app|resize|imgProd|img|m|image_view|uploads|robots\.txt)
-RewriteRule ^(.*)$ index.php/$1 [L]
